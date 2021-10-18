@@ -8,5 +8,5 @@
     To invoke the backend of the application, the user will enter the feedback in the front end and click submit. The backend consists of two separate APIs: StoreAndNotify and PublishOrDelete. The first API, StoreAndNotify, is invoked when the user submits the feedback. A simple JS file can be used to validate the input and display success or failure message to the end user, followed by reseting the fields. User can also be allowed to submit the feedback anonymously, if they choose to do so.
     
   - ### Technology Stack Used in the Front End/Presentation Layer
-  - Javascript
-  - React JS
+    - Javascript
+    - React JS
