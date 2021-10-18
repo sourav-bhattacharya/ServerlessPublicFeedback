@@ -14,7 +14,7 @@
   - ### Feedback Governance
     When the feedback is stored in the DynamoDB, the second step function is invoked which notifies the admin via an email that a submissions is ready for approval. There are two lambdas in this step function:
     - /DeleteComment - In case the feedback is not in line with community guidelines, or contains profanity etc., the admin has the choice to delete the feedback and notify the user about violating community guidelines.
-    - /ApproveComment - in case the feedback does not violate community guidelines, the admin can approve the feedback and the lambda will create a secondary index in DynamoDB with the approved_feedback attribute set as 1.
+    - /ApproveComment - in case the feedback does not violate community guidelines, the admin can approve the feedback and the lambda will create a secondary index in DynamoDB with the approved_feedback attribute set as 1. This will make the feedback available for public view.
 
  - ### Technology Stack Used in the Back End + Business Layer
    - Lambda - Node.js 14.x/Python 3.6
