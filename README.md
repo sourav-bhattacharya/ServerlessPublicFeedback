@@ -25,3 +25,6 @@ This is a high-level view of the application depicting both frontend and backend
 **Storage**:
 
 - [Amazon DynamoDB](https://aws.amazon.com/dynamodb/) as a scalable NoSQL database for persisting informations.
+
+**Notification**:
+
