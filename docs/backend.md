@@ -8,7 +8,7 @@
 
   - ### Feedback Submission
     A feedback submitted from the front end will trigger the /StoreAndNotify api which in turn triggers the AWS Step Fucntion. This step function will orchestrate the lambda functions created to process the storage of the feedback. The two lambdas for processing the submit functionality are
-      - /StoreComment - store the comment in the DynamoDB
+      - /StoreComment - store the comment in DynamoDB
       - /Notify - the success of the previous function will invoke the notification and is then sent out to the admin for adminnistration.
 
   - ### Feedback Governance
