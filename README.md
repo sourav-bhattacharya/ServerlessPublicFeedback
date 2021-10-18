@@ -15,5 +15,5 @@ This is a high-level view of the application depicting both frontend and backend
 **API Hosting**:
 - [Amazon API Gateway](https://aws.amazon.com/api-gateway/) for service-to-service synchronous communication (request/response).
 
-- **Compute**:
+**Compute**:
 - [AWS Lambda](https://aws.amazon.com/lambda/) as serverless compute either behind APIs or to react to asynchronous events.
