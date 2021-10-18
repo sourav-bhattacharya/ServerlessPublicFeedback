@@ -6,3 +6,14 @@ This repo aims to provide documentation on the Serverless Feedback Application. 
 ## Architecture
 
 ### High-level architecture
+This is a high-level view of the application depicting both frontend and backend with the interconnection between the various AWS services used.
+
+### Services and Technologies used
+**Frontend App Hosting**:
+- [AWS Amplify](https://aws.amazon.com/amplify/) for hosting the frontend React JS application. Amplify provides the storage and global content distribtion together with a CI/CD pipeline to deploy new changes to the frontend.
+
+**API Hosting**:
+- [Amazon API Gateway](https://aws.amazon.com/api-gateway/) for service-to-service synchronous communication (request/response).
+
+- **Compute**:
+- [AWS Lambda](https://aws.amazon.com/lambda/) as serverless compute either behind APIs or to react to asynchronous events.
