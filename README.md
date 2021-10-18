@@ -44,4 +44,6 @@ This is a high-level view of the application depicting both frontend and backend
 Please see the [frontend](https://github.com/sourav-bhattacharya/ServerlessPublicFeedback/blob/main/docs/frontend.md) and [backend](https://github.com/sourav-bhattacharya/ServerlessPublicFeedback/blob/main/docs/backend.md) docs section to get a deeper understanding of the solution.
 
 Copyright © 2021 @Sourav Bhattacharya
+Domain Architect - Cloud
+Banque National Du Canada
 
