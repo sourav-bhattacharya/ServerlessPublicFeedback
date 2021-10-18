@@ -33,4 +33,4 @@ This is a high-level view of the application depicting both frontend and backend
 **Notification**:
 - [Amazon SES](https://aws.amazon.com/ses/) as a simple, managed email service.
 
-Please see the frontend and backend docs section to get a deeper understanding of the solution.
+Please see the [frontend](https://github.com/sourav-bhattacharya/ServerlessPublicFeedback/blob/main/docs/frontend.md) and [backend](https://github.com/sourav-bhattacharya/ServerlessPublicFeedback/blob/main/docs/backend.md) docs section to get a deeper understanding of the solution.
