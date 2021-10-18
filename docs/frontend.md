@@ -10,4 +10,4 @@
     
   - ### Technology Stack Used in the Front End/Presentation Layer
     - Javascript
-    - React JS
+    - React JS https://reactjs.org/ 
