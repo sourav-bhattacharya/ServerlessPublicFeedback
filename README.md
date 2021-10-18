@@ -31,4 +31,6 @@ This is a high-level view of the application depicting both frontend and backend
 - [Amazon DynamoDB](https://aws.amazon.com/dynamodb/) as a scalable NoSQL database for persisting informations.
 
 **Notification**:
+- [Amazon SES](https://aws.amazon.com/ses/) as a simple, managed email service.
 
+Please see the frontend and backend docs section to get a deeper understanding of the solution.
