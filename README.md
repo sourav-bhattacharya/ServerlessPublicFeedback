@@ -33,4 +33,15 @@ This is a high-level view of the application depicting both frontend and backend
 **Notification**:
 - [Amazon SES](https://aws.amazon.com/ses/) as a simple, managed email service.
 
+**Identity Access Management**;
+
+- [Amazon IAM](https://aws.amazon.com/iam/) for granting privilege to the lambda functions to write data to DynamoDB and invoke SES.
+
+**Debugging**;
+
+- [Amazon X-Ray](https://aws.amazon.com/xray/) for debugging and analyzing distributed applications.
+
 Please see the [frontend](https://github.com/sourav-bhattacharya/ServerlessPublicFeedback/blob/main/docs/frontend.md) and [backend](https://github.com/sourav-bhattacharya/ServerlessPublicFeedback/blob/main/docs/backend.md) docs section to get a deeper understanding of the solution.
+
+Copyright © 2021 @Sourav Bhattacharya
+
