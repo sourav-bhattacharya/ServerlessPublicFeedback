@@ -17,3 +17,11 @@ This is a high-level view of the application depicting both frontend and backend
 
 **Compute**:
 - [AWS Lambda](https://aws.amazon.com/lambda/) as serverless compute either behind APIs or to react to asynchronous events.
+
+**Microservice Orchestration**:
+
+- [AWS Step Functions](https://aws.amazon.com/step-functions/) used to orchestrate the serverless function that makes it easy to sequence AWS Lambda functions and multiple AWS services into business-critical applications.
+
+**Storage**:
+
+- [Amazon DynamoDB](https://aws.amazon.com/dynamodb/) as a scalable NoSQL database for persisting informations.
