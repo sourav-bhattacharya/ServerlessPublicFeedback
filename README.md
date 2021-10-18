@@ -9,7 +9,7 @@ This repo aims to provide documentation on the Serverless Feedback Application. 
 This is a high-level view of the application depicting both frontend and backend with the interconnection between the various AWS services used.
 
 <p align="center">
-  <img src="img/ServerlessPublicFeedbackApp.drawio.svg" alt="High-level architecture of the feedback app"/>
+  <img src="img/ServerlessPublicFeedbackApp.svg" alt="High-level architecture of the feedback app"/>
 </p>
 
 ### Services and Technologies used
